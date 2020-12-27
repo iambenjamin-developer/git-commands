@@ -1,5 +1,5 @@
-# git-commands
-Git Commands (nuevo repositorio)
+# git-commands(nuevo repositorio)
+Git Commands(nuevo repositorio)
 
 ### Crear un nuevo repositorio desde la linea de comandos
 
