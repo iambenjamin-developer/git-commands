@@ -10,3 +10,8 @@ Git Commands (nuevo repositorio)
 - git branch -M main
 - git remote add origin https://github.com/iambenjamin-developer/miRepositorio.git
 - git push -u origin main
+
+### Subir cambios a un repositorio existente desde la línea de comandos
+- git remote add origin https://github.com/iambenjamin-developer/virgen.git
+- git branch -M master
+- git push -u origin master
